@@ -1,0 +1,73 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.ECommerce.Api.Products.Test FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ECommerce.Api.Products PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ECommerce.Api.Search/Services/CustomersService.cs">
+    <Files>
+      <File FileName="ECommerce.Api.Search/Interfaces/ISearchService.cs" Line="6" Column="77" />
+      <File FileName="ECommerce.Api.Search/Controllers/SearchController.cs" Line="32" Column="31" />
+      <File FileName="ECommerce.Api.Search/Services/SearchService.cs" Line="22" Column="32" />
+      <File FileName="ECommerce.Api.Search/Program.cs" Line="20" Column="75" />
+      <File FileName="ECommerce.Api.Search/appsettings.json" Line="10" Column="15" />
+      <File FileName="ECommerce.Api.Products/Properties/launchSettings.json" Line="16" Column="26" />
+      <File FileName="ECommerce.Api.Orders/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="ECommerce.Api.Search/Models/Order.cs" Line="7" Column="44" />
+      <File FileName="ECommerce.Api.Search/Models/OrderItem.cs" Line="13" Column="1" />
+      <File FileName="ECommerce.Api.Orders/Models/Order.cs" Line="10" Column="1" />
+      <File FileName="ECommerce.Api.Orders/Models/OrderItem.cs" Line="9" Column="47" />
+      <File FileName="ECommerce.Api.Search/Interfaces/IOrdersService.cs" Line="8" Column="106" />
+      <File FileName="ECommerce.Api.Search/Services/OrdersService.cs" Line="38" Column="14" />
+      <File FileName="ECommerce.Api.Orders/Controllers/OrdersController.cs" Line="26" Column="1" />
+      <File FileName="ECommerce.Api.Orders/Program.cs" Line="33" Column="1" />
+      <File FileName="ECommerce.Api.Search/Models/Product.cs" Line="8" Column="3" />
+      <File FileName="ECommerce.Api.Search/Interfaces/IProductsService.cs" Line="8" Column="103" />
+      <File FileName="ECommerce.Api.Search/Services/ProductsService.cs" Line="16" Column="27" />
+      <File FileName="ECommerce.Api.Search/Interfaces/ICustomersService.cs" Line="8" Column="98" />
+      <File FileName="ECommerce.Api.Search/Models/Customer.cs" Line="8" Column="45" />
+      <File FileName="ECommerce.Api.Search/Services/CustomersService.cs" Line="31" Column="1" />
+      <File FileName="ECommerce.Api.Customers/Models/Customer.cs" Line="8" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ECommerce" expanded="True">
+            <Node name="ECommerce.Api.Customers" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="ECommerce.Api.Orders" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="ECommerce.Api.Search">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="CustomersService.cs" selected="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{BACB0593-6423-4439-9C90-502803009D89}" ItemName="ECommerce.Api.Customers" ConfigurationId="http" />
+        <StartupItem ItemId="{209ECBFF-9E62-4895-A1D7-56811F33A4F0}" ItemName="ECommerce.Api.Orders" ConfigurationId="http" />
+        <StartupItem ItemId="{C3FB7023-360B-4491-B0BB-E1C830B403DB}" ItemName="ECommerce.Api.Products" ConfigurationId="http" />
+        <StartupItem ItemId="{5CAE4B2C-9845-4F13-9257-BBB23FF145C1}" ItemName="ECommerce.Api.Search" ConfigurationId="http" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.ECommerce.Api.Customers PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ECommerce.Api.Search PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.ItemProperties.ECommerce.Api.Orders PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>

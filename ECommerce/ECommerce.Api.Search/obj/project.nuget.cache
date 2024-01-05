@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "7UVxg+FcSCI5xoFx+BagpezF8nnxn9S7foNT0jvEnnHAu2SwOTZifBCKVJ36LuLiw1BAyg34XTWh6BRFXWSpuA==",
+  "success": true,
+  "projectFilePath": "/Users/jaspalsingh/Projects/ECommerce/ECommerce.Api.Search/ECommerce.Api.Search.csproj",
+  "expectedPackageFiles": [
+    "/Users/jaspalsingh/.nuget/packages/microsoft.aspnetcore.openapi/7.0.14/microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
+    "/Users/jaspalsingh/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/jaspalsingh/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/jaspalsingh/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/jaspalsingh/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/jaspalsingh/.nuget/packages/microsoft.extensions.http/8.0.0/microsoft.extensions.http.8.0.0.nupkg.sha512",
+    "/Users/jaspalsingh/.nuget/packages/microsoft.extensions.http.polly/8.0.0/microsoft.extensions.http.polly.8.0.0.nupkg.sha512",
+    "/Users/jaspalsingh/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "/Users/jaspalsingh/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/jaspalsingh/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/jaspalsingh/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/jaspalsingh/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/jaspalsingh/.nuget/packages/polly/7.2.4/polly.7.2.4.nupkg.sha512",
+    "/Users/jaspalsingh/.nuget/packages/polly.extensions.http/3.0.0/polly.extensions.http.3.0.0.nupkg.sha512",
+    "/Users/jaspalsingh/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/jaspalsingh/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/jaspalsingh/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/jaspalsingh/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
